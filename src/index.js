@@ -12,6 +12,13 @@ const player2 = {
   PODER: 10,
   PONTOS: 0,
 };
+const player3 = {
+  NOME: "Sonic",
+  VELOCIDADE: 10,
+  MANOBRABILIDADE: 2,
+  PODER: 2,
+  PONTOS: 0,
+};
 
 //Dado para rolar:
 async function rollDice() {
